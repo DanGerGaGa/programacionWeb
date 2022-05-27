@@ -1,0 +1,11 @@
+body {background-color: #0F0F0F;}
+
+
+table {
+  table-layout: fixed;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border: 0px;
+}

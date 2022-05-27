@@ -1,0 +1,23 @@
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  background-color: #000000;
+}
+
+table{
+  width: 100%;
+   table-layout: fixed;
+     border: 5px , solid black;
+}
+
+button {
+    appearance: button;
+
+    color: black;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
